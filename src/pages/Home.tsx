@@ -6,7 +6,7 @@ const Home: React.FC = () => {
     <div className="w-screen h-screen flex items-center justify-center bg-gradient-to-br from-indigo-400 via-purple-300 to-pink-300 px-4">
       <div className="bg-white bg-opacity-80 backdrop-blur-md rounded-2xl shadow-2xl p-10 max-w-lg w-full text-center">
         <h1 className="text-4xl md:text-5xl font-extrabold text-purple-800 mb-6">
-          Welcome to BetterWellness
+          Welcome to BetterWellness new deploye
         </h1>
         <p className="text-gray-700 text-lg mb-8">
           Find professional counsellors and book your sessions easily!
